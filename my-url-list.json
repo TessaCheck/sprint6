@@ -1,0 +1,4 @@
+[
+    { "Name":"Tessa Check", "Email":"tessajcheck@lewisu.edu", "ContactURL":"https://check-tessa-ejp.azurewebsites.net/personalInfo.json" },
+    { "Name":"John Doe", "Email":"N/A", "ContactURL":"https://check-tessa-ejp.azurewebsites.net/fakeInfo.json" }
+]
